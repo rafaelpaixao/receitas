@@ -5,8 +5,9 @@ site_description: Livro de receitas da Lari e do Rafa
 repo_name: receitas
 repo_url: https://github.com/rafaelpaixao/receitas
 
-theme: 
-    name: yeti
+theme:
+    name: mkdocs
+    custom_dir: tema/
 
 docs_dir: site
 site_dir: dist

@@ -1,13 +1,14 @@
 # Lasanha à Bolonhesa
 
+![lasanha-bolonhesa](./lasanha-bolonhesa.jpg)
+
 Lasanha com molho bolonhesa com MAGGI Caldo de Carne e molho branco com Creme de Leite NESTLÉ
 
 RENDIMENTO:12 PORÇÕES
+
 PREPARO: 01:30
+
 DIFICULDADE: FÁCIL
-
-![lasanha-bolonhesa](./lasanha-bolonhesa.jpg)
-
 ## Ingredientes
 
 ### Lasanha:
@@ -53,6 +54,4 @@ Montagem:
 1. Em um recipiente refratário (20 x 30 cm), coloque uma porção de molho bolonhesa; cubra com uma camada de massa, e uma porção de molho branco e coloque o queijo mozarela. Repita as camadas até a borda do recipiente.
 1. Finalize com o queijo parmesão ralado e leve ao forno alto (220°C), preaquecido, por cerca de 20 minutos ou até dourar. Sirva.
 
-## Créditos
-
-[receitasnestle.com.br](https://www.receitasnestle.com.br/receitas/lasanha-a-bolonhesa-saborosa)
+**Créditos**: [receitasnestle.com.br](https://www.receitasnestle.com.br/receitas/lasanha-a-bolonhesa-saborosa)
