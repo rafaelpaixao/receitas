@@ -1,2 +1,12 @@
 site_name: Receitas
-theme: yeti
+site_url: https://nossas-receitas.netlify.app
+site_description: Livro de receitas da Lari e do Rafa
+
+repo_name: receitas
+repo_url: https://github.com/rafaelpaixao/receitas
+
+theme: 
+    name: yeti
+
+docs_dir: site
+site_dir: dist
