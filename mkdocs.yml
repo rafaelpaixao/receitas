@@ -11,3 +11,12 @@ theme:
 
 docs_dir: site
 site_dir: dist
+
+markdown_extensions:
+    - toc:
+        permalink: '#'
+
+plugins:
+    - search
+
+hljs_style: color-brewer
