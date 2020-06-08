@@ -2,21 +2,34 @@ site_name: Receitas
 site_url: https://livrodereceitas.netlify.app
 site_description: Livro de receitas da Lari e do Rafa
 
-repo_name: receitas
-repo_url: https://github.com/rafaelpaixao/receitas
-
-theme:
-    name: mkdocs
-    custom_dir: tema/
-
 docs_dir: site
 site_dir: dist
 
+theme:
+    name: material
+    custom_dir: tema
+    language: pt
+    font:
+        text: Ubuntu
+    palette:
+        primary: light blue
+        accent: indigo
+    favicon: logo/recipe-book.png
+    logo: logo/recipe-book.svg
+
+google_analytics:
+    - UA-96114281-6
+    - auto
+
+extra:
+    disqus: receitaslarierafa
+
 markdown_extensions:
+    - admonition
     - toc:
         permalink: '#'
 
 plugins:
     - search
-
-hljs_style: color-brewer
+    - git-revision-date-localized:
+        type: timeago
