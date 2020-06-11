@@ -1,5 +1,8 @@
 # Livro de Receitas
 
+## Forno
+* [Camarão Internacional](/receitas/camarao-internacional)
+
 ## Massas
 
 * [Lasanha Bolonhesa](/receitas/lasanha-bolonhesa)
