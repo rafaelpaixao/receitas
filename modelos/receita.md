@@ -4,16 +4,14 @@
 
 Descrição curta.
 
-## INGREDIENTES
+## Ingredientes
 
 - ingrediente
 - ingrediente
 - ingrediente
 
-
-## PREPARO:
+## Preparo
 1. Faz isso
 1. Faz aquilo
-
 
 **Créditos**: [nomedosite.com.br](https://nomedosite.com.br)
