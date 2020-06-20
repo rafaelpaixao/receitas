@@ -1,10 +1,13 @@
 # Livro de Receitas
 
-## Forno
+## Auxiliares
 * [Caldo de Legumes](/receitas/caldo-de-legumes)
 
 ## Forno
 * [Camarão Internacional](/receitas/camarao-internacional)
+
+## Frigideira
+* [Batata Suíça com Bacon](/receitas/batata-suica-com-bacon)
 
 ## Massas
 
